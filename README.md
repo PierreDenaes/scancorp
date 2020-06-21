@@ -2,16 +2,16 @@
 
 > Le but du projet CorpScan est de fournir aux entreprises un outils de mesure du stress et des risques de Burn Out en leur sein. L'idée est de pouvoir prévenir les risques et d'intervenir avant un épuisement complet afin de garder un maximum de productivité et une bonne santé corporative.
 
-![Logo Corpscan](https://raw.githubusercontent.com/PierreDenaes/Dow_J/master/images/corpscanLogo.png)
+![Logo Corpscan](https://raw.githubusercontent.com/PierreDenaes/scancorp/master/images/corpscanLogo.png)
 
 ### Réalisation de la base de donnée
 
 >Réalisation du Mcd Mld en suivant la méthode Merise.
 - [x] tache compléte.
-![Image of McdMld](https://raw.githubusercontent.com/PierreDenaes/Dow_J/master/images/mcdMld.webp)
+![Image of McdMld](https://raw.githubusercontent.com/PierreDenaes/scancorp/master/images/mcdMld.webp)
 >Réalisation de la base de donnée au format Sql avec Workbench.
 - [x] tache compléte.
-[link to db.sql!](https://github.com/PierreDenaes/Dow_J/blob/master/includes/db.sql)
+[link to db.sql!](https://github.com/PierreDenaes/scancorp/blob/master/includes/db.sql)
 
 ### Création des fonctionnalités register et login.
 
