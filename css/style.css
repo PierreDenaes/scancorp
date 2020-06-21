@@ -1,0 +1,145 @@
+.lorem {
+	margin-left: auto;
+	margin-right: auto;
+}
+/* body acceuil */;
+.bodyAccueil {
+	margin: auto;
+	text-align: center;
+	height: 100vh;
+}
+/* MENU */
+.navborder {
+	box-shadow: 0px 15px 10px -15px #111;
+}
+.navbar-nav {
+	margin-left: 14%;
+}
+.navbar-brand {
+	margin-left: 1%;
+}
+.nav-link:hover {
+	box-shadow: inset 0 -5px #2aa1b8;
+}
+.connect {
+	box-shadow: 0px 15px 10px -15px #111;
+	width: 70%;
+	height: 80px;
+	margin: 0 auto 5% auto;
+	padding-top: 10px;
+	text-align: center;
+	background-color:#2aa1b8;
+	border-radius: 50px 0 50px 0;
+	color: #fff;
+}
+.subtn {
+	margin-left: 35%;
+	margin-top: 5%;
+}
+.subtn:hover {
+	background-color: #1a8899 !important;
+}
+.lost {
+	display: block;
+	margin: 5% auto;
+	text-align: center;
+}
+.logoSortie{
+	width: 2em;
+}
+.sortie {
+	margin-left: 10%;
+	padding: 5px 4px;
+}
+.sortie:hover {
+	background-color: #2aa1b8;
+	border-radius: 50%;
+}
+.logoImg {
+	display: block;
+	width: 50%;
+	margin: 5% auto 5% auto;
+}
+#corps_html{
+	padding-top: 5%;
+}
+/*SurveyMbi*/
+.surveyMbi {
+	border: 1px solid rgba(128,128,128,0.4);
+	border-radius: 15px 0 0 0;
+	box-shadow: -3px 5px 5px 0px rgba(0,0,0,0.75);
+	padding: 3% 5%;
+	height: 70vh;
+	margin-bottom: 5%;
+}
+.surveyMbiTitle {
+	color: #808080;
+	margin-bottom: 5%;
+	text-align: center;
+	font-size: 2.5em;
+}
+.question {
+	margin-top: 5%;
+}
+.pBold {
+	font-weight: bold;
+}
+/* statistique */
+.statAlign {
+	margin-right: auto;
+	margin-left: auto;
+}
+.navStat {
+	text-align: center;
+	padding-bottom: 10%;
+}
+.userSt {
+	margin-right: auto;
+	margin-left: auto;
+}
+/*Add Csv Company */
+
+#response {
+	text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+    display:none;
+}
+.success {
+    background: #c7efd9;
+    border: #bbe2cd 1px solid;
+}
+
+.error {
+    background: #fbcfcf;
+    border: #f3c6c7 1px solid;
+}
+
+div#response.display-block {
+    display: block;
+}/*
+.outer-scontainer {
+	background: #F0F0F0;
+	border: #e0dfdf 1px solid;
+	padding: 20px;
+	border-radius: 2px;
+}
+.outer-scontainer table {
+	border-collapse: collapse;
+	}
+
+.outer-scontainer th {
+	border: 1px solid #dddddd;
+	padding: 8px;
+	text-align: left;
+}
+
+.outer-scontainer td {
+	border: 1px solid #dddddd;
+	padding: 8px;
+	text-align: left;
+}*/
+.alertP {
+	margin-top: 2%;
+}
